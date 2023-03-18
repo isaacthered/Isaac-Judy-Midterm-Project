@@ -8,7 +8,7 @@ Theodosia's character and experience would make her an excellent candidate for a
  * Relatedly, she would be eager to help coordinate the development of any spiders a search engine company might need. 
  * She hones her computer science skills on a daily basis, as seen in the below image:
  
- ![1000001490](https://user-images.githubusercontent.com/122947311/226093337-83b7543c-59cc-40f0-82b5-59c54b86874d.jpg)
+ ![Theodosia sitting among computer monitors](https://user-images.githubusercontent.com/122947311/226093337-83b7543c-59cc-40f0-82b5-59c54b86874d.jpg)
  
  Here is an example of her coding technique:
  
