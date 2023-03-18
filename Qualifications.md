@@ -1,3 +1,5 @@
+# Qualifications
+
 Theodosia's character and experience would make her an excellent candidate for any programming position:
  * She has a flexible schedule, and is able to adapt her sleeping hours for any contingency.
  * She has a proven track record when it comes to effectively communicating problems to her teammates, having developed a novel meowing strategy she has used throughout her previous positions.
