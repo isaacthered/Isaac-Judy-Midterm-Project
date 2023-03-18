@@ -5,4 +5,4 @@
 ![Theodosia laying down on a bed](https://user-images.githubusercontent.com/122947311/226089587-3b22d6f7-20f2-46e2-86e1-b533f9d4b8d9.jpg)
 ![Theodosia sitting on a carpet](https://user-images.githubusercontent.com/122947311/226089588-c7db4000-252d-4f9a-bcbb-994cee23f1fc.jpg)
 
-#### [Back to home](README.md)
+#### [Return to home](README.md)
