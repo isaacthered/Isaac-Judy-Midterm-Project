@@ -5,4 +5,4 @@ impressed by her perserverence through the difficult situation that they immedia
 learn. It is difficult work, but she has made lifelong friends through the experience, and learned useful skills. However, the limited treats and trips outside have 
 inspired her to begin broadening her horizons and seek a position that actually gives her adequate payment. 
 
-#### [return to home](README.md)
+#### [Return to home](README.md)
