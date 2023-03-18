@@ -7,4 +7,18 @@ Theodosia's character and experience would make her an excellent candidate for a
  * She hones her computer science skills on a daily basis, as seen in the below image:
  
  ![1000001490](https://user-images.githubusercontent.com/122947311/226093337-83b7543c-59cc-40f0-82b5-59c54b86874d.jpg)
+ 
+ Here is an example of her coding technique:
+ 
+    function eat(testedFunction, testValue, expectedValue) {
+       if (testedFunction(testValue)===expectedValue) {
+          return testedFunction;
+       } else {
+          return "";
+       };
+    };
+    //the below scenario assumes the function variables are not constants
+    exampleFunction=eat(exampleFunction, varA, varB);
+    //most problems can be solved by eating them
+
 #### [Return to home](README.md)
