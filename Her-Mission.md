@@ -12,6 +12,6 @@ It is Theodosia's life goal to put an end to these prey animals once and for all
 inaction have made this infeasable. She would greatly appreciate any support in this endeavor, whether it takes the form of killing directly or helping facilitate other 
 creatures in their hunt. She would be happy to answer any inquiries on honing one's predatory instincts. 
 
-![Theodosia observing the wildlife through a window](https://user-images.githubusercontent.com/122947311/226091915-2c071be6-4df2-477e-86be-447ed8d1f231.jpg)
+![Theodosia surveilling the wildlife through a window](https://user-images.githubusercontent.com/122947311/226091915-2c071be6-4df2-477e-86be-447ed8d1f231.jpg)
 
 #### [Return to home](README.md)
